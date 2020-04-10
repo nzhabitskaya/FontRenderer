@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdoramaPix</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="label1">Single line (align left)</string>
+    <string name="label2">Single line (align center)</string>
+    <string name="label3">Single line (align right)</string>
+    
+    <string name="multiline1">Multiline (align left) Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="multiline2">Multiline (align left) Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="multiline3">Multiline (align left) Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    
+    <!-- Fonts -->
+    <string name="airplanes">Airplanes</string>
+    <string name="chopin">Chopin</string>
+    <string name="jellyka">Jellyka</string>
+    <string name="lavanderia">Lavanderia</string>
+    <string name="learning">Learning</string>
+    <string name="mystic">Mystic</string>
+    <string name="onescarynight">Onescarynight</string>
+    <string name="script33">Script33</string>
+    <string name="verdana">Verdana</string>
+    <string name="vive">Vive</string>
+
+</resources>

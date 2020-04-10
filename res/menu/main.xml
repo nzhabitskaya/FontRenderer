@@ -1,0 +1,73 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+	    <item
+	        android:id="@+id/action_airplanes"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/airplanes"
+	        android:checked="true"/>
+	    
+	    <item
+	        android:id="@+id/action_chopin"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/chopin"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_jellyka"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/jellyka"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_lavanderia"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/lavanderia"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_learning"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/learning"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_mystic"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/mystic"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_onescarynight"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/onescarynight"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_script33"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/script33"
+	        />
+	
+	    <item
+	        android:id="@+id/action_verdana"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/verdana"
+	        />
+	    
+	    <item
+	        android:id="@+id/action_vive"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/vive"
+	        />
+	</group>
+</menu>
